@@ -1,0 +1,28 @@
+{
+  "name": "sugi",
+  "version": "0.0.1",
+  "description": "A documentation generator",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^15.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokyoincode/sugi.git"
+  },
+  "keywords": [
+    "documentation",
+    "sugi",
+    "generator"
+  ],
+  "author": "Kevin O'Neil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokyoincode/sugi/issues"
+  },
+  "homepage": "https://github.com/tokyoincode/sugi#readme"
+}
