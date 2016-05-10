@@ -5,10 +5,10 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "react": "^15.0.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "foundation-sites": "^6.2.1",
+    "marked": "^0.3.5",
+    "react": "^15.0.2",
+    "redux": "^3.5.2"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "keywords": [
     "documentation",
     "sugi",
-    "generator"
+    "markdown"
   ],
   "author": "Kevin O'Neil",
   "license": "MIT",
