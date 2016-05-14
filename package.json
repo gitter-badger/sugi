@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/tokyoincode/sugi/issues"
   },
+  "bin": {
+    "sugi": "./index.js"
+  },
   "homepage": "https://github.com/tokyoincode/sugi#readme"
 }

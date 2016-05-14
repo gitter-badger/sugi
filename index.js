@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+console.log('test');
+
 // Run some jQuery on a html fragment
 const marked = require('marked');
 const jsdom = require("jsdom");
