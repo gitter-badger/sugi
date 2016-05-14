@@ -14,19 +14,3 @@ jsdom.env({
     console.log(header.textContent);
   }
 });
-
-//
-//
-//
-// var marked = require('marked');
-// var jsdom = require('jsdom').jsdom;
-//
-// const example = marked('# Hi <br> ## Hello');
-// var test = '';
-// jsdom.env({
-//   html: '<h1>Hello</h1>',
-//   done: function(err, window) {
-//     test = window.document.body;
-//     logTest(test);
-//   }
-// });
