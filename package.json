@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "A documentation generator",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.9.0",
+    "marked": "^0.3.5"
+  },
   "devDependencies": {
     "foundation-sites": "^6.2.1",
     "jsdom": "^9.0.0",
-    "marked": "^0.3.5",
     "react": "^15.0.2",
     "redux": "^3.5.2"
   },

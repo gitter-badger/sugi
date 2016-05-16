@@ -1,16 +1,11 @@
 #!/usr/bin/env node
-console.log('test');
 
 // Run some jQuery on a html fragment
-const marked = require('marked');
-const jsdom = require("jsdom");
+const program = require('commander')
+const fs = require('fs')
 
-var test = marked('# header')
-jsdom.env({
-  html: test,
-  done: function (errors, window) {
-    document = window.document;
-    var header = document.getElementsByTagName('h1')[0];
-    console.log(header.textContent);
-  }
-});
+require('./lib/parse.js')
+
+program
+  .version('0.0.1')
+  .usage('<file ...>')
