@@ -1,15 +1,16 @@
 #!/usr/bin/env node
 
-// Run some jQuery on a html fragment
-const program = require('commander')
-const fs = require('fs')
+"use strict";
 
-require('./lib/parse.js')
+const program = require('commander');
+const parse = require('./lib/parse.js');
+
+let input;
 
 program
   .version('0.0.1')
   .arguments('<input> [output]')
-  .action(function(cmd, input, output) {
-    console.log(input);
+  .action(function(input, output) {
+    parse.isInputAFile(input, output);
   })
-  .parse(process.argv)
+  .parse(process.argv);
