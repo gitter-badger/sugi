@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const program = require('commander');
-const parse = require('./lib/parse.js');
+const parse = require('./lib/parse.js').parse;
 
 program
   .version('0.0.1')
