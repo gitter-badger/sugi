@@ -9,6 +9,7 @@ program
   .arguments('<input> [output]')
   .action((input, output) => {
     parse.transformIntoHtml(input);
+    write.getTemplateFile();
     write.writeToFile(input, output, parse.parsedHtml);
   })
   .parse(process.argv);
