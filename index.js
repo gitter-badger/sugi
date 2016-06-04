@@ -9,10 +9,12 @@ program
   .version('0.0.1')
   .arguments('<input> [output]')
   .action((input, output) => {
-    options.importFileName = input;
-    options.outputFileName = output;
-    parse.transformIntoHtml(input);
-    write.init();
+    options.input = input;
+    options.output = output || null;
+    setTimeout(() => {
+      parse.init();
+      write.init();
+    });
   })
   .parse(process.argv);
 
