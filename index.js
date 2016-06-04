@@ -10,8 +10,9 @@ program
   .arguments('<input> [output]')
   .action((input, output) => {
     options.importFileName = input;
+    options.outputFileName = output;
     parse.transformIntoHtml(input);
-    write.writeToFile(input, output, parse.parsedHtml);
+    write.init();
   })
   .parse(process.argv);
 
