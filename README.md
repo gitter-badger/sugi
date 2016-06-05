@@ -12,6 +12,6 @@ To install Sugi, all you need to do is run:
 ***Note***
 Sugi will be published soon
 
-`npm install sugi -g`
+    npm install sugi -g
 
 ***License***: MIT
