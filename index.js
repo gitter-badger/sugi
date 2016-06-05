@@ -10,7 +10,7 @@ program
   .arguments('<input> [output]')
   .action((input, output) => {
     options.input = input;
-    options.output = output || null;
+    options.output = output || input;
     setTimeout(() => {
       parse.init();
       write.init();
