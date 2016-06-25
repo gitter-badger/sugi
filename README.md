@@ -11,6 +11,10 @@ To install Sugi, all you need to do is run:
 **Note:**
 Sugi will be published soon
 
+## Issues
+If you find any bugs or wish to contribute, feel free to submit an issue or a pull
+request.
+
 ```
 npm install sugi -g
 ```
