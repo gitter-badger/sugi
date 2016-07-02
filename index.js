@@ -3,6 +3,7 @@
 const program = require('commander');
 const parse = require('./lib/parse.js').parse;
 const write = require('./lib/write-file.js').write;
+const bundle = require('./lib/bundle.js').bundle;
 const options = {}
 
 program
