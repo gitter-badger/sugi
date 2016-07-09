@@ -1,4 +1,6 @@
 # Sugi
+[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
+
 Save trees by writing your documentation in Markdown!
 
 **Note:** Sugi is currently in alpha, so many features have not been implemented yet. This
@@ -17,7 +19,7 @@ Find the markdown file that you would like to transform, for example:
 ```
 sugi documentation.md
 ```
-Your new file will be called `documentation.html`. 
+Your new file will be called `documentation.html`.
 
 ## Issues
 If you find any bugs or wish to contribute, feel free to submit an issue or a pull
