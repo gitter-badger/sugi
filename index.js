@@ -12,9 +12,12 @@ program
   .action((input, output) => {
     options.input = input;
     options.output = output || input;
+    options.theme = 'default';
+
     setTimeout(() => {
       parse.init();
       write.init();
+      bundle.init();
     });
   })
   .parse(process.argv);
