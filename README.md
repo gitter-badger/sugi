@@ -8,16 +8,21 @@ Thank you!
 ## Installation
 To install Sugi, all you need to do is run:
 
-**Note:**
-Sugi will be published soon
+```
+npm install sugi -g
+```
+
+## Usage
+Find the markdown file that you would like to transform, for example:
+```
+sugi documentation.md
+```
+Your new file will be called `documentation.html`. 
 
 ## Issues
 If you find any bugs or wish to contribute, feel free to submit an issue or a pull
 request.
 
-```
-npm install sugi -g
-```
 
 ### License:
 The MIT License (MIT)
