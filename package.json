@@ -20,6 +20,7 @@
     "eslint-plugin-jsx-a11y": "^1.2.2",
     "eslint-plugin-react": "^5.1.1",
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.11",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
     "milligram": "^1.1.0"
@@ -41,5 +42,8 @@
   "bin": {
     "sugi": "./index.js"
   },
+  "scripts": {
+    "demo": "open demo/demo.html"
+  },	
   "homepage": "https://github.com/tokyoincode/sugi#readme"
 }
