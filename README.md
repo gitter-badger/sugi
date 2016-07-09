@@ -3,11 +3,11 @@
 [![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
 
-Save trees by writing your documentation in Markdown!
+Save trees by writing your documentation in Markdown and then transforming it into Markdown!
 
 **Note:** Sugi is currently in alpha, so many features have not been implemented yet. This
 document serves as a roadmap. Feel free to request features by submitting an issue.
-Thank you!
+Thank you for your understanding.
 
 ## Installation
 To install Sugi, all you need to do is run:
@@ -23,12 +23,20 @@ sugi documentation.md
 ```
 Your new file will be called `documentation.html`.
 
+However, if you specify the name in the command like so:
+```
+sugi documentation.md index.html
+```
+Then you will get `index.html`
+
 ## Issues
 If you find any bugs or wish to contribute, feel free to submit an issue or a pull
 request.
 
+## Contribution
+Coming soon.
 
-### License:
+## License:
 The MIT License (MIT)
 
 Copyright (c) 2016 Kevin O'Neil
