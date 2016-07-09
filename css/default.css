@@ -411,3 +411,26 @@ h6 {
   clear: both; }
 
 /*# sourceMappingURL=milligram.min.css.map */
+article {
+  margin-left: 200px !important; }
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  max-width: 200px;
+  height: 100%;
+  background-color: #353535; }
+
+#sidebar a {
+  display: block;
+  padding: 5px 30px 5px 15px;
+  color: white; }
+  #sidebar a:hover {
+    background-color: #27ae60; }
+
+#sidebar .h1 {
+  font-size: 20px; }
+
+#sidebar .h2 {
+  font-size: 15px; }

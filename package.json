@@ -1,7 +1,7 @@
 {
   "name": "sugi",
-  "version": "0.0.4",
-  "description": "A documentation generator",
+  "version": "0.0.5",
+  "description": "Transforms your markdown into HTML",
   "main": "index.js",
   "dependencies": {
     "cheerio": "^0.20.0",
@@ -44,6 +44,6 @@
   },
   "scripts": {
     "demo": "open demo/demo.html"
-  },	
+  },
   "homepage": "https://github.com/tokyoincode/sugi#readme"
 }
