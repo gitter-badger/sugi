@@ -1,6 +1,6 @@
 # Sugi
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?maxAge=2592000)](https://github.com/tokyoincode/sugi)
-[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
+[![GitHub version](https://badge.fury.io/gh/tokyoincode%2Fsugi.svg)](https://badge.fury.io/gh/tokyoincode%2Fsugi)
+[![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
 
 Save trees by writing your documentation in Markdown!
