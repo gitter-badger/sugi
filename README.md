@@ -4,7 +4,13 @@
 [![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
 
-Save trees by writing your documentation in Markdown and then transforming it into Markdown!
+Save trees by writing your documentation in Markdown and then transforming it into HTML!
+
+### What is a "sugi"?
+
+>It is endemic to Japan, where it is known as sugi (Japanese: 杉). The tree is called Japanese cedar[3] or Japanese red-cedar[4] in English.
+
+[-Wikipedia](https://en.wikipedia.org/wiki/Cryptomeria)
 
 **Note:** Sugi is currently in alpha, so many features have not been implemented yet. This
 document serves as a roadmap. Feel free to request features by submitting an issue.
