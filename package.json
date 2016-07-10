@@ -1,6 +1,6 @@
 {
   "name": "sugi",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Transforms your markdown into HTML",
   "main": "index.js",
   "dependencies": {
