@@ -1,6 +1,7 @@
-
-<h1 style="float:left;"><img src="assets/logo_32x32.png" style="margin-right:10px;">sugi</h1>
-<div style="clear:both;"></div>
+<p align="center">
+  <img src="assets/logo_64x64.png">
+  <h1 align="center">sugi</h1>
+<p>
 [![GitHub version](https://badge.fury.io/gh/tokyoincode%2Fsugi.svg)](https://badge.fury.io/gh/tokyoincode%2Fsugi)
 [![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://www.npmjs.com/package/sugi)
