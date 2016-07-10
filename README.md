@@ -1,5 +1,5 @@
 
-[Sugi logo](http://i.imgur.com/E3yOcBk.png)
+[![Sugi logo](http://i.imgur.com/E3yOcBk.png)]
 # Sugi
 [![GitHub version](https://badge.fury.io/gh/tokyoincode%2Fsugi.svg)](https://badge.fury.io/gh/tokyoincode%2Fsugi)
 [![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
