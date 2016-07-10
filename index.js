@@ -8,7 +8,7 @@ const bundle = require('./lib/bundle.js').bundle;
 const options = {}
 
 program
-  .version('0.0.8')
+  .version('0.0.9')
   .arguments('<input> [output]')
   .action((input, output) => {
     options.input = input;
