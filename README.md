@@ -36,6 +36,18 @@ sugi documentation.md index.html
 ```
 Then you will get `index.html`
 
+## Options
+```
+sugi --version
+```
+Outputs the currently installed version.
+
+## Update
+To update sugi:
+```
+npm update sugi -g
+```
+
 ## Issues
 If you find any bugs or wish to contribute, feel free to submit an issue or a pull
 request.
