@@ -8,6 +8,8 @@ Save trees by writing your documentation in Markdown and then transforming it in
 
 ### What is a "sugi"?
 
+[![Join the chat at https://gitter.im/tokyoincode/sugi](https://badges.gitter.im/tokyoincode/sugi.svg)](https://gitter.im/tokyoincode/sugi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 >It is endemic to Japan, where it is known as sugi (Japanese: 杉). The tree is called Japanese cedar[3] or Japanese red-cedar[4] in English.
 
 [-Wikipedia](https://en.wikipedia.org/wiki/Cryptomeria)
