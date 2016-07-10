@@ -1,4 +1,4 @@
-![Sugi logo](assets/sugi_logo_small.png)
+![Sugi logo](assets/logo_small.png)
 <div style="clear:both;"></div>
 [![GitHub version](https://badge.fury.io/gh/tokyoincode%2Fsugi.svg)](https://badge.fury.io/gh/tokyoincode%2Fsugi)
 [![npm version](https://badge.fury.io/js/sugi.svg)](https://badge.fury.io/js/sugi)
